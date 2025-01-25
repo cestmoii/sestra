@@ -18,4 +18,7 @@ body {
     border-style: solid;
     border-width: 5px;
     border-color: black;
+    cursor: pointer;
+    transition-duration: 0.4s;
+    box-shadow: 5px 10px;
 }
